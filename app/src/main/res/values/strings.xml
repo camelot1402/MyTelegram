@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Telegram</string>
+    <string name="chats">Чаты</string>
+    <string name="settings">Настройки</string>
 </resources>
